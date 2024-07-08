@@ -173,4 +173,7 @@
     bottom: initial; /* Ensure the caption is centered */
     padding: 10px; /* Add padding for small screens */
   }
+  .content{
+    text-align:center;
+  }
 }
