@@ -44,4 +44,5 @@ document.addEventListener("DOMContentLoaded", () => {
     const targetDate = new Date("August 18, 2024 08:56:00").getTime();
     countdown('countdown1', targetDate);
     countdown('countdown2', targetDate);
+     countdown('countdown3', targetDate);
 });
